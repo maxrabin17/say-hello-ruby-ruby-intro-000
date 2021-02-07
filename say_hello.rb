@@ -1,8 +1,6 @@
-# Build your say_hello method here
-
-###
-def say_hello(name = "Ruby Programmer")
-  puts ("Hello " + name + "!")
+def multiply(num1, num2)
+  answer = (num1 * num2)
+  return answer
 end
 
-puts say_hello()
+puts multiply(20, 5)
