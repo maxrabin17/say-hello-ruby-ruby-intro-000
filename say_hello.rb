@@ -1,4 +1,7 @@
-def say_hello(name = "Ruby programmer")
-  puts ("hello " + name + "!")
+
+num = 0
+max_num = 5
+while num <= max_num
+  puts "one more time"
+  num = num + 1
 end
-puts say_hello("my dude")
