@@ -8,5 +8,4 @@ def divide(num1, num2)
   return answer
 end
 
-
-puts divide(20, 5)
+puts multiply(3, 6)
